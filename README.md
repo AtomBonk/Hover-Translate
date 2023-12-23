@@ -10,7 +10,7 @@ The main features of the app are:
 The app supports dark theme :)
 
 *The input language is set to be automatically detected, and the output translation language can be changed from the settings tab.*
-At the moment the app is configured with the following output languages: Enligsh, Spanish, German, and Hebrew.
+At the moment the app is configured with the following output languages: English, Spanish, German, and Hebrew.
 113 languages are supported by Googletrans-lib, visit the docs to see the dict and choose your languages:
 https://py-googletrans.readthedocs.io/en/latest/#googletrans-languages
 
